@@ -1,0 +1,37 @@
+.personal-info{
+    padding : 20px;
+    text-align : center;
+    background-color: #58615D;
+    border: 1px solid black;
+}
+.social-links{
+    padding : 20px;
+    text-align : center;
+    background-color: #94A69E;
+    margin-top: 10px;
+    border: 1px solid black;
+
+}
+.motivation{
+    padding : 20px;
+    text-align : center;
+    background-color: #c49d8c;
+    border: 1px solid black;
+    line-height: 1.6;
+}
+header{
+    width: 75%;
+    margin : auto;
+    margin-top: 50px;
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom : 20px;
+    
+    
+}
+.social-links a{
+    margin : 0 10px;
+    text-decoration: none;
+}
